@@ -18,7 +18,7 @@ A curated list of awesome Apple security resources
   - [Trainings](#trainings)
   
 
-
+https://www.sans.org/cyber-security-courses/ios-android-application-security-analysis-penetration-testing/
 ## iOS
 ### Malware
 ### Threat Hunting
@@ -28,6 +28,7 @@ A curated list of awesome Apple security resources
 ### Trainings
 - [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
 - [SANS FOR585: Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/)
+- [SANS SEC575: iOS and Android Application Security Analysis and Penetration Testing](https://www.sans.org/cyber-security-courses/ios-android-application-security-analysis-penetration-testing/)
 
 ## MacOS
 ### Malware
