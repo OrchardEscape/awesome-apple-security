@@ -40,6 +40,7 @@ A curated list of awesome Apple security resources
 ### Talks
 ### Books
 ### Trainings
+- [OffSec EXP-312: Advanced macOS Control Bypasses](https://www.offsec.com/courses/exp-312/)
 - [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
 
 
