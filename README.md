@@ -17,6 +17,7 @@ A curated list of awesome Apple security resources
   - [Books](#books)
   - [Trainings](#trainings)
 - [Contributing](#contributing)
+- [Thanks](#thanks)
   
 
 
@@ -44,3 +45,6 @@ A curated list of awesome Apple security resources
 
 ## Contributing
 Pull requests and issues with suggestions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines before submitting a PR.
+
+## Thanks
+Thanks to all who invested their time in creating pull requests and sharing their contributions!
