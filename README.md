@@ -16,6 +16,7 @@ A curated list of awesome Apple security resources
   - [Talks](#talks)
   - [Books](#books)
   - [Trainings](#trainings)
+  - [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
 
 
 ## iOS
@@ -33,4 +34,4 @@ A curated list of awesome Apple security resources
 ### Talks
 ### Books
 ### Trainings
-- ["SANS FOR518: Mac and iOS Forensic Analysis and Incident Response"](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
+- [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
