@@ -43,4 +43,4 @@ A curated list of awesome Apple security resources
 
 
 ## Contributing
-Pull requests and issues with suggestions are welcome! Please read the CONTRIBUTING guidelines before submitting a PR.
+Pull requests and issues with suggestions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines before submitting a PR.
