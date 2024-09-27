@@ -26,6 +26,8 @@ A curated list of awesome Apple security resources
 ### Threat Hunting
 ### Researchers
 ### Talks
+- [Current State Of IOS Malware Detection - Matthias Frielingsdorf](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/](https://www.youtube.com/watch?v=3gnGPfKu7FE)
+- ["In Walled Gardens be Careful of Poisoned Apples" - Matthias Frielingsdorf](https://www.youtube.com/watch?v=3gnGPfKu7FE](https://www.youtube.com/watch?v=GK6TNBjs49g&list=PLCefaUN4XN2I1r-l9mQytsLzRsOSiWTqK&index=6)
 ### Books
 ### Trainings
 - [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
