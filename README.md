@@ -4,8 +4,8 @@ A curated list of awesome Apple security resources
 ## Contents
 - [iOS](#iOS)
   - [Malware](#malware)
-  - [Threat Hunting](#threat-hunting)
   - [Researchers](#researchers)
+  - [Companies](#companies)
   - [Talks](#talks)
   - [Books](#books)
   - [Trainings](#trainings)
@@ -44,6 +44,7 @@ A curated list of awesome Apple security resources
 ### Talks
 - [Current State Of IOS Malware Detection - Matthias Frielingsdorf](https://www.youtube.com/watch?v=3gnGPfKu7FE)
 - [In Walled Gardens be Careful of Poisoned Apples - Matthias Frielingsdorf](https://www.youtube.com/watch?v=GK6TNBjs49g&list=PLCefaUN4XN2I1r-l9mQytsLzRsOSiWTqK&index=6)
+- [Life and death of an iOS attacker - Luca Todesco](https://www.youtube.com/watch?v=8mQAYeozl5I)
 ### Books
 - [MacOS and iOS Internals, Volume I: User Mode (v1.3)](https://www.amazon.com/MacOS-iOS-Internals-User-Mode/dp/099105556X/ref=as_sl_pc_qf_sp_asin_til?tag=newosxbookcom-20&linkCode=w00&linkId=25d40cd80f346c76537ef5fb1ea1ed81&creativeASIN=099105556X)
 - [MacOS and iOS Internals, Volume II: Kernel Mode](https://www.amazon.com/gp/product/0991055578/ref=as_sl_pc_qf_sp_asin_til?tag=newosxbookcom-20&linkCode=w00&linkId=25d40cd80f346c76537ef5fb1ea1ed81&creativeASIN=099105556X)
